@@ -1,0 +1,15 @@
+.button {
+  border: 1px solid black;
+  padding: 5px;
+  font-size: 1.1rem;
+  outline: none;
+  -webkit-box-shadow: 10px 10px 5px 0px rgba(144, 240, 202, 1);
+  -moz-box-shadow: 10px 10px 5px 0px rgba(144, 240, 202, 1);
+  box-shadow: 3px 5px 7px 1px rgba(144, 240, 202, 1);
+}
+
+.button:hover {
+  cursor: pointer;
+  background: #7ddbf3;
+  color: white;
+}
